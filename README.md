@@ -2,6 +2,8 @@
 
 A ball-by-ball data analysis of Chennai Super Kings' IPL 2026 season — a full pipeline from raw delivery data to an interactive Power BI dashboard, with every finding traced back to a SQL query.
 
+**Season record: 6 wins – 8 losses (42.86% win rate) across 14 matches.**
+
 # Pipeline
 
 Python (pandas, Google Colab)  →  MySQL (CTEs, window functions)  →  Power BI (Power Query + DAX)
@@ -41,7 +43,7 @@ Raw ball-by-ball data (`ipl_2026_deliveries.csv`, cross-referenced against `matc
 
 # Key Findings
 
-1. The Jamie Overton + Akeal Hosein pairing is the single biggest lever on results.
+**1. The Jamie Overton + Akeal Hosein pairing is the single biggest lever on results.**
 
 | Combination status | Matches Played |	Matches	Win rate | Wins - Losses |
 | --- | --- | --- | --- |
@@ -83,6 +85,7 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 **7. Designated middle- and death-overs batters underperformed their roles.** Kartik Sharma and Ruturaj Gaikwad (most-used in the middle) and Shivam Dube / Prashant Veer (most-used at death) scored below the strike rate threshold generally needed to win T20 matches, while some of the squad's highest-impact batters were used out of position or given too few deliveries to influence the game.
 
 **8. Anshul Kamboj's economy worsened as the tournament progressed:** 
+
 8.03 in Phase 1 (M1–M3)
 
 10.97 in Phase 2 (M4–M10)
