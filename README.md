@@ -52,7 +52,7 @@ Raw ball-by-ball data (`ipl_2026_deliveries.csv`, cross-referenced against `matc
 | Both absent |	3 |	0.0% (0–3) |
 
 
-| Combination status | Matches Played |	Matches	Win rate | Win Loss |
+| Combination status | Matches Played |	Matches	Win rate | Wins - Losses |
 | --- | --- | --- | --- |
 | Both played 	 | 6  |	83.3%  | 5–1 |
 | Akeal absent only  | 4 | 25.0% |  1–3 |
