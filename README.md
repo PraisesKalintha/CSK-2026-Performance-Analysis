@@ -43,10 +43,16 @@ Raw ball-by-ball data (`ipl_2026_deliveries.csv`, cross-referenced against `matc
 
 1. The Jamie Overton + Akeal Hosein pairing is the single biggest lever on results.
 
-'''
+| Combination status |	Matches	Win rate |
+
+| Both played |	6	| 83.3% (5–1) |
+| Akeal absent only |	4 |	25.0% (1–3) |
+| Overton absent only |	1 |	0.0% (0–1) |
+| Both absent |	3 |	0.0% (0–3) |
+
+
 Combination status	Matches	Win rate
 Both played	6	83.3% (5–1)
 Akeal absent only	4	25.0% (1–3)
 Overton absent only	1	0.0% (0–1)
 Both absent	3	0.0% (0–3)
-'''
