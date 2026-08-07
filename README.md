@@ -92,7 +92,7 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 # Recommendations
 
 1.**Build the batting order around protecting Sanju Samson through the powerplay.** CSK's win rate is 100% when he survives it, 0% when he doesn't — the clearest single pattern in the season.
-"2".**Define clear roles across the batting order, not just at the top.** Several players suited to one position have been used out of position all season.
+"2.**Define clear roles across the batting order, not just at the top.** Several players suited to one position have been used out of position all season."
 3.**Establish one designated finisher instead of splitting death-overs duty across the squad —** Sarfaraz Khan, Samson, and Kartik Sharma convert boundaries more efficiently than Dube in that phase.
 4.**Field Overton and Hosein together consistently,** not just when available. Without both, middle-overs wicket-taking goes flat and the attack becomes one-dimensional.
 5.**Manage player fitness and injuries proactively —** roughly 6 players were unavailable for stretches of the season, reshaping the XI repeatedly.
