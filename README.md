@@ -59,3 +59,17 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 | 0–1 | 3 | 67% |
 | 2   | 4 | 50% |
 | 3+  | 7 | 29% |
+
+# 3. Sanju Samson surviving the powerplay is close to a binary result predictor.
+
+| Samson's PP impact | 	Matches	Win rate |	Avg runs |	Avg SR |
+| --- | --- | --- | --- |
+| IMPACT	4	| 100% (4–0) |	87.3  |	177.3 |
+| MODERATE	5	| 40% (2–3)  |	19.4  |	140.6 |
+| FAILED	5	| 0% (0–5)   |	5.8   |	119.8 |
+
+4. Wickets taken in the middle overs is just as decisive on the bowling side. 3+ wickets taken in the middle overs → 85.71% win rate. 0–2 wickets → 0% win rate.
+
+5. The season was decisive, not dramatic. 11 of 14 matches were blowouts — 6 blowout losses, 5 blowout wins — against only 3 close matches (2 close losses, 1 close win). Blowout losses are driven by wicket clusters, not slow scoring: CSK loses roughly double the powerplay and middle-overs wickets in blowout losses compared to blowout wins.
+
+6. Bowling economy improves in every phase when Overton and Hosein bowl together, versus the rest of the attack
