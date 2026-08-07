@@ -105,3 +105,11 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 **4.Field Overton and Hosein together consistently, not just when available.** Without both, middle-overs wicket-taking goes flat and the attack becomes one-dimensional.
 
 **5.Manage player fitness and injuries proactively —** roughly 6 players were unavailable for stretches of the season, reshaping the XI repeatedly.
+
+**Data**
+
+**Source:** ball-by-ball delivery data for all of CSK's 14 matches in the 2026 season (Kaggle), plus a matches.csv metadata file.
+
+**Verification:** all 14 match results were manually cross-checked against official Cricbuzz scorecards; two matches had a scoring discrepancy from a double-counted extras column and were corrected by hand (see dax/key_measures.md).
+
+**Supplementary data:** no bowler_type field exists in the raw data (bowling style is a property of the player, not the delivery). A manual lookup table (bowler → Pace/Spin) was built for all 62 distinct bowlers who dismissed a CSK batsman, and reused to break down which bowlers dismissed CSK most often (Rabada, Siraj, Malinga topped the list) and which pace/spin split dismissed which CSK batter
