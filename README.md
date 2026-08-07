@@ -68,11 +68,11 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 | MODERATE	5	| 40% (2–3)  |	19.4  |	140.6 |
 | FAILED	5	| 0% (0–5)   |	5.8   |	119.8 |
 
-4. Wickets taken in the middle overs is just as decisive on the bowling side. 3+ wickets taken in the middle overs → 85.71% win rate. 0–2 wickets → 0% win rate.
+**4. Wickets taken in the middle overs is just as decisive on the bowling side**. 3+ wickets taken in the middle overs → 85.71% win rate. 0–2 wickets → 0% win rate.
 
-5. The season was decisive, not dramatic. 11 of 14 matches were blowouts — 6 blowout losses, 5 blowout wins — against only 3 close matches (2 close losses, 1 close win). Blowout losses are driven by wicket clusters, not slow scoring: CSK loses roughly double the powerplay and middle-overs wickets in blowout losses compared to blowout wins.
+**5. The season was decisive, not dramatic**. 11 of 14 matches were blowouts — 6 blowout losses, 5 blowout wins — against only 3 close matches (2 close losses, 1 close win). Blowout losses are driven by wicket clusters, not slow scoring: CSK loses roughly double the powerplay and middle-overs wickets in blowout losses compared to blowout wins.
 
-6. Bowling economy improves in every phase when Overton and Hosein bowl together, versus the rest of the attack
+**6. Bowling economy improves in every phase when Overton and Hosein bowl together,** versus the rest of the attack
 
 | Phase	 | Overton + Hosein | 	Rest of bowling |
 | --- | --- | --- |
@@ -80,11 +80,11 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 | Middle overs | 7.78 |	9.67  |
 | Death overs  | 8.96 |	12.55 |
 
-7. Designated middle- and death-overs batters underperformed their roles. Kartik Sharma and Ruturaj Gaikwad (most-used in the middle) and Shivam Dube / Prashant Veer (most-used at death) scored below the strike rate threshold generally needed to win T20 matches, while some of the squad's highest-impact batters were used out of position or given too few deliveries to influence the game.
+**7. Designated middle- and death-overs batters underperformed their roles.** Kartik Sharma and Ruturaj Gaikwad (most-used in the middle) and Shivam Dube / Prashant Veer (most-used at death) scored below the strike rate threshold generally needed to win T20 matches, while some of the squad's highest-impact batters were used out of position or given too few deliveries to influence the game.
 
-8. Anshul Kamboj's economy worsened as the tournament progressed: 8.03 in Phase 1 (M1–M3) → 10.97 in Phase 2 (M4–M10) → 11.50 in Phase 3 (M11–M14).
+**8. Anshul Kamboj's economy worsened as the tournament progressed:** 8.03 in Phase 1 (M1–M3) → 10.97 in Phase 2 (M4–M10) → 11.50 in Phase 3 (M11–M14).
 
-9. Kagiso Rabada was CSK's most dangerous opponent bowler, taking 6 wickets against them across the season — ahead of Mohammed Siraj and Eshan Malinga (4 each).
+**9. Kagiso Rabada was CSK's most dangerous opponent bowler,** taking 6 wickets against them across the season — ahead of Mohammed Siraj and Eshan Malinga (4 each).
 
 # Recommendations
 
