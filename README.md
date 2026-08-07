@@ -43,18 +43,19 @@ Raw ball-by-ball data (`ipl_2026_deliveries.csv`, cross-referenced against `matc
 
 1. The Jamie Overton + Akeal Hosein pairing is the single biggest lever on results.
 
-
-| Combination status |	Matches	Win rate |
-| --- | --- |
-| Both played |	6	| 83.3% (5–1) |
-| Akeal absent only |	4 |	25.0% (1–3) |
-| Overton absent only |	1 |	0.0% (0–1) |
-| Both absent |	3 |	0.0% (0–3) |
-
-
 | Combination status | Matches Played |	Matches	Win rate | Wins - Losses |
 | --- | --- | --- | --- |
-| Both played 	 | 6  |	83.3%  | 5–1 |
-| Akeal absent only  | 4 | 25.0% |  1–3 |
-| Overton absent only 	| 1 | 0.0% | 0–1 |
-| Both absent	| 3 |	0.0% | 0–3 |
+| Both played 	        | 6 | 83.3% | 5–1 |
+| Akeal absent only     | 4 | 25.0% | 1–3 |
+| Overton absent only 	| 1 | 0.0%  | 0–1 |
+| Both absent	        | 3 | 0.0%  | 0–3 |
+
+Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Overton played → 60% vs. 0% when absent.
+
+# 2. Losing early wickets in the powerplay predicts losses.
+
+| Wickets lost in PP | 	Matches	 | Win rate |
+| --- | --- | --- |
+| 0–1 | 3 | 67% |
+| 2   | 4 | 50% |
+| 3+  | 7 | 29% |
