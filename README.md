@@ -83,7 +83,7 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 **7. Designated middle- and death-overs batters underperformed their roles.** Kartik Sharma and Ruturaj Gaikwad (most-used in the middle) and Shivam Dube / Prashant Veer (most-used at death) scored below the strike rate threshold generally needed to win T20 matches, while some of the squad's highest-impact batters were used out of position or given too few deliveries to influence the game.
 
 **8. Anshul Kamboj's economy worsened as the tournament progressed:** 
-8.03 in Phase 1 (M1–M3)
+8.03 in Phase 1 (M1–M3)<>
 10.97 in Phase 2 (M4–M10)
 11.50 in Phase 3 (M11–M14).
 
@@ -91,8 +91,8 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 
 # Recommendations
 
-1**.Build the batting order around protecting Sanju Samson through the powerplay**. CSK's win rate is 100% when he survives it, 0% when he doesn't — the clearest single pattern in the season.
-2.Define clear roles across the batting order, not just at the top. Several players suited to one position have been used out of position all season.
-3.Establish one designated finisher instead of splitting death-overs duty across the squad — Sarfaraz Khan, Samson, and Kartik Sharma convert boundaries more efficiently than Dube in that phase.
-4.Field Overton and Hosein together consistently, not just when available. Without both, middle-overs wicket-taking goes flat and the attack becomes one-dimensional.
-5.Manage player fitness and injuries proactively — roughly 6 players were unavailable for stretches of the season, reshaping the XI repeatedly.
+**1.Build the batting order around protecting Sanju Samson through the powerplay.** CSK's win rate is 100% when he survives it, 0% when he doesn't — the clearest single pattern in the season.
+**2.Define clear roles across the batting order, not just at the top.** Several players suited to one position have been used out of position all season.
+**3.Establish one designated finisher instead of splitting death-overs duty across the squad** — Sarfaraz Khan, Samson, and Kartik Sharma convert boundaries more efficiently than Dube in that phase.
+**4.Field Overton and Hosein together consistently, not just when available.** Without both, middle-overs wicket-taking goes flat and the attack becomes one-dimensional.
+**5.Manage player fitness and injuries proactively —** roughly 6 players were unavailable for stretches of the season, reshaping the XI repeatedly.
