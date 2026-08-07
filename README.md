@@ -73,3 +73,22 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 5. The season was decisive, not dramatic. 11 of 14 matches were blowouts — 6 blowout losses, 5 blowout wins — against only 3 close matches (2 close losses, 1 close win). Blowout losses are driven by wicket clusters, not slow scoring: CSK loses roughly double the powerplay and middle-overs wickets in blowout losses compared to blowout wins.
 
 6. Bowling economy improves in every phase when Overton and Hosein bowl together, versus the rest of the attack
+
+| Phase	 | Overton + Hosein | 	Rest of bowling |
+| --- | --- | --- |
+| Powerplay    | 9.03 | 10.58 |
+| Middle overs | 7.78 |	9.67  |
+| Death overs  | 8.96 |	12.55 |
+
+7. Designated middle- and death-overs batters underperformed their roles. Kartik Sharma and Ruturaj Gaikwad (most-used in the middle) and Shivam Dube / Prashant Veer (most-used at death) scored below the strike rate threshold generally needed to win T20 matches, while some of the squad's highest-impact batters were used out of position or given too few deliveries to influence the game.
+
+8. Anshul Kamboj's economy worsened as the tournament progressed: 8.03 in Phase 1 (M1–M3) → 10.97 in Phase 2 (M4–M10) → 11.50 in Phase 3 (M11–M14).
+
+9. Kagiso Rabada was CSK's most dangerous opponent bowler, taking 6 wickets against them across the season — ahead of Mohammed Siraj and Eshan Malinga (4 each).
+
+Recommendations
+Build the batting order around protecting Sanju Samson through the powerplay. CSK's win rate is 100% when he survives it, 0% when he doesn't — the clearest single pattern in the season.
+Define clear roles across the batting order, not just at the top. Several players suited to one position have been used out of position all season.
+Establish one designated finisher instead of splitting death-overs duty across the squad — Sarfaraz Khan, Samson, and Kartik Sharma convert boundaries more efficiently than Dube in that phase.
+Field Overton and Hosein together consistently, not just when available. Without both, middle-overs wicket-taking goes flat and the attack becomes one-dimensional.
+Manage player fitness and injuries proactively — roughly 6 players were unavailable for stretches of the season, reshaping the XI repeatedly.
