@@ -91,11 +91,11 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 
 ## Data
 
-**Source:** ball-by-ball delivery data for all of CSK's 14 matches in the 2026 season (Kaggle), plus a `matches.csv` metadata file.
+✦ **Source:** ball-by-ball delivery data for all of CSK's 14 matches in the 2026 season (Kaggle), plus a `matches.csv` metadata file.
 
-**Verification:** all 14 match results were manually cross-checked against official Cricbuzz scorecards; two matches had a scoring discrepancy from a double-counted `extras` column and were corrected by hand (see `Power BI/key_measures.md`).
+✦ **Verification:** all 14 match results were manually cross-checked against official Cricbuzz scorecards; two matches had a scoring discrepancy from a double-counted `extras` column and were corrected by hand (see `Power BI/key_measures.md`).
 
-**Supplementary data:** no `bowler_type` field exists in the raw data (bowling style is a property of the player, not the delivery). A manual lookup table (bowler → Pace/Spin) was built for all 62 distinct bowlers who dismissed a CSK batsman, and reused to break down which bowlers dismissed CSK most often (Rabada, Siraj, Malinga topped the list) and which pace/spin split dismissed which CSK batter.
+✦ **Supplementary data:** no `bowler_type` field exists in the raw data (bowling style is a property of the player, not the delivery). A manual lookup table (bowler → Pace/Spin) was built for all 62 distinct bowlers who dismissed a CSK batsman, and reused to break down which bowlers dismissed CSK most often (Rabada, Siraj, Malinga topped the list) and which pace/spin split dismissed which CSK batter.
 
 ## Tools Used
 
@@ -107,9 +107,9 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 
 ## Notes & Known Limitations
 
-- Power BI connects via CSV export, not a live MySQL connection — the MySQL Connector/NET version required by Power BI wasn't available, so pre-aggregated CSVs are loaded directly.
-- Several segmentations run on very small samples (14 matches total, some splits down to n=1). Every rate/percentage above is shown against its underlying match count for that reason.
-- The bowler pace/spin lookup table is trimmed to a handful of example rows in the SQL script comments (full list covers 62 bowlers) — extend it if you fork this analysis for a different team or season.
+✦ Power BI connects via CSV export, not a live MySQL connection — the MySQL Connector/NET version required by Power BI wasn't available, so pre-aggregated CSVs are loaded directly.
+✦ Several segmentations run on very small samples (14 matches total, some splits down to n=1). Every rate/percentage above is shown against its underlying match count for that reason.
+✦ The bowler pace/spin lookup table is trimmed to a handful of example rows in the SQL script comments (full list covers 62 bowlers) — extend it if you fork this analysis for a different team or season.
 
 ## Dashboard
 
