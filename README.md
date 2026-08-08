@@ -1,4 +1,4 @@
-<img width="1121" height="627" alt="Screenshot 2026-07-31 162747" src="https://github.com/user-attachments/assets/0e5d800a-9da8-4d6b-8601-5b1137e07a80" /># CSK 2026 Performance Analysis
+# CSK 2026 Performance Analysis
 
 A ball-by-ball data analysis of Chennai Super Kings' IPL 2026 season — a full pipeline from raw delivery data to an interactive Power BI dashboard, with every finding traced back to a SQL query.
 
