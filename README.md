@@ -1,3 +1,8 @@
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-FF6F00?style=flat&logo=microsoft&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # CSK 2026 Performance Analysis
 
 A ball-by-ball data analysis of Chennai Super Kings' IPL 2026 season — a full pipeline from raw delivery data to an interactive Power BI dashboard, with every finding traced back to a SQL query.
