@@ -113,3 +113,17 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 **Verification:** all 14 match results were manually cross-checked against official Cricbuzz scorecards; two matches had a scoring discrepancy from a double-counted extras column and were corrected by hand (see dax/key_measures.md).
 
 **Supplementary data:** no bowler_type field exists in the raw data (bowling style is a property of the player, not the delivery). A manual lookup table (bowler → Pace/Spin) was built for all 62 distinct bowlers who dismissed a CSK batsman, and reused to break down which bowlers dismissed CSK most often (Rabada, Siraj, Malinga topped the list) and which pace/spin split dismissed which CSK batter
+
+# Setup
+bash
+# 1. Clone the repo
+git clone https://github.com/<your-username>/CSK-2026-Performance-Analysis.git
+
+# 2. Run the cleaning pipeline (Google Colab or local)
+python python/ipl_2026_stage_1_data_loading.py
+
+# 3. Load the SQL scripts into MySQL
+mysql -u <user> -p < sql/02_schema_setup_and_win_rate_queries.sql
+mysql -u <user> -p < sql/03_advanced_analysis_window_functions.sql
+
+# 4. Open CSK_2026.pbix in Power BI Desktop
