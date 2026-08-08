@@ -124,11 +124,11 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 
 # Notes & Known Limitations
 
-●Power BI connects via CSV export, not a live MySQL connection — the MySQL Connector/NET version required by Power BI wasn't available, so pre-aggregated CSVs are loaded directly.
+•Power BI connects via CSV export, not a live MySQL connection — the MySQL Connector/NET version required by Power BI wasn't available, so pre-aggregated CSVs are loaded directly.
 
-●Several segmentations run on very small samples (14 matches total, some splits down to n=1). Every rate/percentage above is shown against its underlying match count for that reason.
+•Several segmentations run on very small samples (14 matches total, some splits down to n=1). Every rate/percentage above is shown against its underlying match count for that reason.
 
-●The bowler pace/spin lookup table is trimmed to a handful of example rows in the SQL script comments (full list covers 62 bowlers) — extend it if you fork this analysis for a different team or season
+•The bowler pace/spin lookup table is trimmed to a handful of example rows in the SQL script comments (full list covers 62 bowlers) — extend it if you fork this analysis for a different team or season
 
 <img width="1130" height="652" alt="Screenshot 2026-07-31 162609" src="https://github.com/user-attachments/assets/f07ce527-dff3-4b46-9ad2-2ed1cae6708f" />
 
