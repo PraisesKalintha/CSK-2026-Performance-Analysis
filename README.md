@@ -1,4 +1,4 @@
-# CSK 2026 Performance Analysis
+<img width="1121" height="627" alt="Screenshot 2026-07-31 162747" src="https://github.com/user-attachments/assets/0e5d800a-9da8-4d6b-8601-5b1137e07a80" /># CSK 2026 Performance Analysis
 
 A ball-by-ball data analysis of Chennai Super Kings' IPL 2026 season — a full pipeline from raw delivery data to an interactive Power BI dashboard, with every finding traced back to a SQL query.
 
@@ -131,4 +131,13 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 ●The bowler pace/spin lookup table is trimmed to a handful of example rows in the SQL script comments (full list covers 62 bowlers) — extend it if you fork this analysis for a different team or season
 
 <img width="1130" height="652" alt="Screenshot 2026-07-31 162609" src="https://github.com/user-attachments/assets/f07ce527-dff3-4b46-9ad2-2ed1cae6708f" />
+
+<img width="1115" height="635" alt="Screenshot 2026-07-31 162649" src="https://github.com/user-attachments/assets/b060ebe1-e5a4-4cd0-a76c-2a5a06ab2bb6" />
+
+<img width="1120" height="631" alt="Screenshot 2026-07-31 162718" src="https://github.com/user-attachments/assets/785b430c-9621-4fea-b66f-8c80f8202962" />
+
+<img width="1121" height="627" alt="Screenshot 2026-07-31 162747" src="https://github.com/user-attachments/assets/c6ddaa75-bc20-4796-9e8f-fa8954d41701" />
+
+
+
 
