@@ -84,7 +84,7 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 
 ## Recommendations
 
-**1. Build the batting order around protecting Sanju Samson through the powerplay.** CSK's win rate is 100% when he survives it, 0% when he doesn't — the clearest single pattern in the season.
+**1. Build the batting order around protecting Sanju Samson through the powerplay.** CSK's win rate is 100% when he survives it, 11% when he doesn't — the clearest single pattern in the season.
 
 **2. Define clear roles across the batting order, not just at the top.** Several players suited to one position have been used out of position all season.
 
