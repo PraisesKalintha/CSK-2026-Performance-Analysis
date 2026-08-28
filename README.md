@@ -86,6 +86,7 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 **9. Kagiso Rabada was CSK's most dangerous opponent bowler,** taking 6 wickets against them across the season — ahead of Mohammed Siraj and Eshan Malinga (4 each).
 
 
+
 ## Recommendations
 
 **1. Build the batting order around protecting Sanju Samson through the powerplay.** CSK's win rate is 100% when he survives it, 11% when he doesn't — the clearest single pattern in the season.
@@ -97,6 +98,7 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 **4. Field Overton and Hosein together consistently, not just when available.** Without both, middle-overs wicket-taking goes flat and the attack becomes one-dimensional.
 
 **5. Manage player fitness and injuries proactively.** Roughly 6 players were unavailable for stretches of the season, reshaping the XI repeatedly.
+
 
 
 ## Data
