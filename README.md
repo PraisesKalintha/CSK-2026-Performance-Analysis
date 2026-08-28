@@ -94,10 +94,6 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 
 **5. Manage player fitness and injuries proactively.** Roughly 6 players were unavailable for stretches of the season, reshaping the XI repeatedly.
 
-
-
-
-
 ## Data
 
 ✦ **Source:** ball-by-ball delivery data for all of CSK's 14 matches in the 2026 season (Kaggle), plus a `matches.csv` metadata file.
