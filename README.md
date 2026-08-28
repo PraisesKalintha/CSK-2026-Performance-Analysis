@@ -18,6 +18,8 @@ Python (pandas, Google Colab)  →  MySQL (CTEs, window functions)  →  Power B
 
 Raw ball-by-ball data (`ipl_2026_deliveries.csv`, cross-referenced against `matches.csv`) is filtered down to CSK's 14 matches in Python, loaded into MySQL for analysis with CTEs and window functions, then visualized in Power BI via CSV export.
 
+
+
 ## Repository Structure
 
 ```
@@ -33,6 +35,8 @@ Raw ball-by-ball data (`ipl_2026_deliveries.csv`, cross-referenced against `matc
 └── screenshots/
     └── *.png                                     ← dashboard views (roles, match closeness, bowling combo)
 ```
+
+
 
 ## Key Findings
 
@@ -81,6 +85,7 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 8.03 in Phase 1 (M1–M3) → 10.97 in Phase 2 (M4–M10) → 11.50 in Phase 3 (M11–M14).
 
 **9. Kagiso Rabada was CSK's most dangerous opponent bowler,** taking 6 wickets against them across the season — ahead of Mohammed Siraj and Eshan Malinga (4 each).
+
 
 ## Recommendations
 
