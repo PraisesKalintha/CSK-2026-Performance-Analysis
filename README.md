@@ -38,6 +38,7 @@ Raw ball-by-ball data (`ipl_2026_deliveries.csv`, cross-referenced against `matc
     └── *.png                                     ← dashboard views (roles, match closeness, bowling combo)
 ```
 
+
 ## Key Findings
 
 **1. The Jamie Overton + Akeal Hosein pairing is the single biggest lever on results.**
@@ -85,8 +86,6 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 8.03 in Phase 1 (M1–M3) → 10.97 in Phase 2 (M4–M10) → 11.50 in Phase 3 (M11–M14).
 
 **9. Kagiso Rabada was CSK's most dangerous opponent bowler,** taking 6 wickets against them across the season — ahead of Mohammed Siraj and Eshan Malinga (4 each).
-
-
 
 ## Recommendations
 
