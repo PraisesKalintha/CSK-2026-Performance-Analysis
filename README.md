@@ -10,7 +10,6 @@ A ball-by-ball data analysis of Chennai Super Kings' IPL 2026 season — a full 
 
 **Season record: 6 wins – 8 losses (42.86% win rate) across 14 matches.**
 
-
 ## Pipeline
 
 ```
@@ -19,7 +18,6 @@ Python (pandas, Google Colab)  →  MySQL (CTEs, window functions)  →  Power B
 ```
 
 Raw ball-by-ball data (`ipl_2026_deliveries.csv`, cross-referenced against `matches.csv`) is filtered down to CSK's 14 matches in Python, loaded into MySQL for analysis with CTEs and window functions, then visualized in Power BI via CSV export.
-
 
 ## Repository Structure
 
