@@ -37,7 +37,6 @@ Raw ball-by-ball data (`ipl_2026_deliveries.csv`, cross-referenced against `matc
     └── *.png                                     ← dashboard views (roles, match closeness, bowling combo)
 ```
 
-
 ## Key Findings
 
 **1. The Jamie Overton + Akeal Hosein pairing is the single biggest lever on results.**
@@ -125,7 +124,6 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 ✦ Several segmentations run on very small samples (14 matches total, some splits down to n=1). Every rate/percentage above is shown against its underlying match count for that reason.
 
 ✦ The bowler pace/spin lookup table is trimmed to a handful of example rows in the SQL script comments (full list covers 62 bowlers) — extend it if you fork this analysis for a different team or season.
-
 
 ## Dashboard
 
