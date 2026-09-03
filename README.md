@@ -23,7 +23,6 @@ Python (pandas, Google Colab)  →  MySQL (CTEs, window functions)  →  Power B
 Raw ball-by-ball data (`ipl_2026_deliveries.csv`, cross-referenced against `matches.csv`) is filtered down to CSK's 14 matches in Python, loaded into MySQL for analysis with CTEs and window functions, then visualized in Power BI via CSV export.
 
 
-
 ## Repository Structure
 
 ```
