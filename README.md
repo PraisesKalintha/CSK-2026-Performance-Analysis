@@ -12,7 +12,6 @@ A ball-by-ball data analysis of Chennai Super Kings' IPL 2026 season — a full 
 **Season record: 6 wins – 8 losses (42.86% win rate) across 14 matches.**
 
 
-
 ## Pipeline
 
 ```
