@@ -116,6 +116,7 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 ✦ **Supplementary data:** no `bowler_type` field exists in the raw data (bowling style is a property of the player, not the delivery). A manual lookup table (bowler → Pace/Spin) was built for all 62 distinct bowlers who dismissed a CSK batsman, and reused to break down which bowlers dismissed CSK most often (Rabada, Siraj, Malinga topped the list) and which pace/spin split dismissed which CSK batter.
 
 
+
 ## Tools Used
 
 **Python** — pandas (Google Colab)
