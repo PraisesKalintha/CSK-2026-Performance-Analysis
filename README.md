@@ -92,6 +92,7 @@ Individually: Akeal Hosein played → 71% win rate vs. 14% when absent. Jamie Ov
 
 
 
+
 ## Recommendations
 
 **1. Build the batting order around protecting Sanju Samson through the powerplay.** CSK's win rate is 100% when he survives it, 11% when he doesn't — the clearest single pattern in the season.
